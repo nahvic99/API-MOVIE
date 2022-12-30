@@ -1,0 +1,32 @@
+[
+   {
+      "name": "El conjuro",
+      "description": "A principios de los años 70, Ed y Lorrain Warren, reputados investigadores de fenómenos paranormales, se enfrentan a una entidad demoníaca al intentar ayudar a una familia que está siendo aterrorizada por una presencia oscura en su aislada granja.",
+      "year": 2013,
+      "id": 1
+   },
+   {
+      "name": "Sinister",
+      "description": "Ellison Oswald, escritor de historias criminales, está en una mala racha; no ha tenido un éxito en más de 10 años y está desesperado. Cuando descubre una película que muestra las muertes de una familia, él promete resolver el misterio. Ellison y su familia se mudan a la casa de las víctimas y se pone a trabajar. Sin embargo, cuando unas imágenes antiguas y otras pistas apuntan a una presencia sobrenatural. Ellison descubre que vivir en esa casa podría costarles la vida.",
+      "year": 2012,
+      "id": 2
+   },
+   {
+      "name": "El Orfanato",
+      "description": "Varios meses después de que desapareciese su hijo, la madre desconsolada cree haber escuchado espíritus en la casa de su infancia que podrían ayudar a encontrar al niño.",
+      "year": 2008,
+      "id": 3
+   },
+   {
+      "name": "Terminator 3",
+      "description": "La rebelion de las maquinas",
+      "year": 2003,
+      "id": 4
+   },
+   {
+      "name": "Psicosis",
+      "description": "Después de haberle robado 40 000 dólares a su jefe, Marion Crane huye de la policía y se detiene a pasar la noche en un motel que se erige junto a una carretera perdida. El establecimiento lo regentan un joven tímido y extraño y su madre.",
+      "year": 1961,
+      "id": 5
+   }
+]
